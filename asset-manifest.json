@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/trybe-tunes/static/css/main.fed61136.chunk.css",
+    "main.js": "/trybe-tunes/static/js/main.79f48f7b.chunk.js",
+    "main.js.map": "/trybe-tunes/static/js/main.79f48f7b.chunk.js.map",
+    "runtime-main.js": "/trybe-tunes/static/js/runtime-main.62d9a489.js",
+    "runtime-main.js.map": "/trybe-tunes/static/js/runtime-main.62d9a489.js.map",
+    "static/js/2.a909789b.chunk.js": "/trybe-tunes/static/js/2.a909789b.chunk.js",
+    "static/js/2.a909789b.chunk.js.map": "/trybe-tunes/static/js/2.a909789b.chunk.js.map",
+    "index.html": "/trybe-tunes/index.html",
+    "static/css/main.fed61136.chunk.css.map": "/trybe-tunes/static/css/main.fed61136.chunk.css.map",
+    "static/js/2.a909789b.chunk.js.LICENSE.txt": "/trybe-tunes/static/js/2.a909789b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62d9a489.js",
+    "static/js/2.a909789b.chunk.js",
+    "static/css/main.fed61136.chunk.css",
+    "static/js/main.79f48f7b.chunk.js"
+  ]
+}
