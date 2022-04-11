@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
+/* cores: https://www.csscolorpalettes.com/palettes/359 */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #e0ffcd;
+  font-family: 'Yellowtail', cursive;
+  
+  display: flex;
+  justify-content: center;
+}
+
+.loading {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+h1, h2, footer {
+  text-align: center;
+}
+
+.login {
+  border: 2px solid #ffcab0;
+  border-radius: 5px;
+  background-color: #fdffcd;
+  padding: 10px;
+}
+
+button {
+  background-color: #ffebbb;
+  font-family: 'Yellowtail', cursive;
+  border-radius: 5px;
+}
+
+.header {
+  display: flex;
+}
+
+.link {
+  text-decoration: none;
+  color: #ffcab0;
+}
+
+.link:hover {
+  color: #ffebbb; ;
+}
+
+.album-unitario {
+  background-color: #ffcab0;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.albuns-search {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.texto-busca {
+  display: block;
+}
